@@ -69,3 +69,13 @@
 .iconzuopin:before {
   content: "\e613";
 }
+body {
+  background-color: #f5f7f9;
+}
+.page-nav-bar {
+  background-color: #4aa1f9;
+}
+.page-nav-bar .van-nav-bar__title,
+.page-nav-bar .van-icon {
+  color: #fff;
+}
